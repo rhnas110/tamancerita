@@ -1,3 +1,3 @@
 export const Footer = () => {
-  return <footer className="text-center">©️ 2025 Taman Cerita</footer>;
+  return <footer className="text-center">© 2025 Taman Cerita</footer>;
 };
